@@ -1,3 +1,59 @@
+.ccc{
+    background: hsl(233, 14%, 35%) !important;
+}
+
+li{
+    list-style: none !important;
+
+}
+
+.ch{
+    background:  hsl(280, 87%, 65%) !important;
+}
+
+.tt{
+    color: red !important;
+}
+
+.list{
+    text-decoration:line-through !important;
+    
+    
+}
+
+
+
+.img1{
+        background-image: url('./bg-desktop-light.jpg');
+       
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 30vh;    
+        
+}
+
+
+
 body{
-    background: yellow;
+    background: hsl(0, 0%, 98%) !important; 
+    font-size: 18px !important;
+}
+
+.bod{
+    background: white !important;
+    max-width: 700px !important;
+    border-radius: 7px;
+    min-height: 200px !important
+    
+    
+}
+
+.bb{
+    border-bottom: 1px solid black;
+    
+    
+}
+
+.img2{
+    max-width: 700px;
 }
